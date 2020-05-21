@@ -19,3 +19,10 @@
 * Data Transfer Objects<br>
 * Token Authentication (JWT)<br>
 * Authentication Middleware - Tie everything together so that the API is aware of the Authentication Scheme.<br>Protects the controllers and their actions
+
+<b>Section 4: Client side login and register</b><br>
+* Angular services - used to communicate with the API<br>
+* Conditionally displaying elements in the DOM<br>
+* Input properties - Pass data from Parent to child component, send values retrieved from the server down to the child and consume them in there<br>
+* Output properties - send from child to parent component
+
