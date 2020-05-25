@@ -1,6 +1,6 @@
 # DatingApp
 
- ### https://freecoursesite.com/1-build-an-app-with-aspnet-core-and-angular-from-scratch/ <br><br><br>
+ ### https://www.udemy.com/build-an-app-with-aspnet-core-and-angular-from-scratch/ <br><br><br>
 <b>Section 2:Building a walking skeleton</b><br>
 * Create the Web API project
 * Reviewed the default files created by DotNetCLI
